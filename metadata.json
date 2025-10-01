@@ -1,0 +1,5 @@
+{
+  "name": "AI Resume Analyzer",
+  "description": "An AI-powered web application that analyzes resumes against job descriptions, provides detailed feedback for improvement, simulates ATS scoring, and generates tailored cover letters and interview questions.",
+  "requestFramePermissions": []
+}
